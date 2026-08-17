@@ -108,15 +108,21 @@ Saya sangat terbuka untuk:
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Activity
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeole&theme=radical&show_icons=true&count_private=true)
+<!-- Opsi 1: GitHub Readme Streak Stats (Lebih Reliable) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=itsmeole&theme=radical)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeole&theme=radical&layout=compact)
+<!-- Opsi 2: GitHub Stats dengan Cache Parameter -->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeole&theme=radical&show_icons=true&count_private=true&cache_seconds=86400)](https://github.com/itsmeole)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeole&theme=radical&layout=compact&langs_count=8&cache_seconds=86400)](https://github.com/itsmeole)
 
 </div>
+
+**💡 Tips:** Jika stats masih tidak muncul, refresh halaman atau tunggu 1-2 menit karena API memerlukan waktu untuk load pertama kali.
 
 ---
 
