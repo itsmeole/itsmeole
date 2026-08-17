@@ -108,21 +108,31 @@ Saya sangat terbuka untuk:
 
 ---
 
-## 📈 GitHub Stats & Activity
+## 📈 GitHub Stats & Achievements
 
 <div align="center">
 
-<!-- Opsi 1: GitHub Readme Streak Stats (Lebih Reliable) -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=itsmeole&theme=radical)](https://git.io/streak-stats)
+### 📊 GitHub Metrics
 
-<!-- Opsi 2: GitHub Stats dengan Cache Parameter -->
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeole&theme=radical&show_icons=true&count_private=true&cache_seconds=86400)](https://github.com/itsmeole)
+![Repositories](https://img.shields.io/badge/Repositories-18-blue?style=flat-square&logo=github)
+![Followers](https://img.shields.io/badge/Followers-1-success?style=flat-square&logo=github)
+![Stars](https://img.shields.io/badge/Stars-8-yellow?style=flat-square&logo=star)
+![Active-Developer](https://img.shields.io/badge/Status-Active%20Developer-brightgreen?style=flat-square)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeole&theme=radical&layout=compact&langs_count=8&cache_seconds=86400)](https://github.com/itsmeole)
+### 💻 Primary Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### 🚀 Featured Projects
+
+![Aonime-Mobile](https://img.shields.io/badge/Aonime%20Mobile-Kotlin-7F52FF?style=flat-square&logo=android)
+![Inventory-Cashier](https://img.shields.io/badge/Inventory%20Cashier-TypeScript-3178C6?style=flat-square&logo=typescript)
+![Forecast-Padi](https://img.shields.io/badge/Forecast%20Padi-Python-3776AB?style=flat-square&logo=python)
 
 </div>
-
-**💡 Tips:** Jika stats masih tidak muncul, refresh halaman atau tunggu 1-2 menit karena API memerlukan waktu untuk load pertama kali.
 
 ---
 
