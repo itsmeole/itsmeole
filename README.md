@@ -38,47 +38,39 @@
 
 <br/>
 
-<table>
-  <!-- Row 1: Profile Details + Summary Stats -->
-  <tr>
-    <td colspan="2" align="center" valign="middle">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsmeole&theme=github_dark"
-        alt="itsmeole's Profile Details"
-        width="100%"
-      />
-    </td>
-    <td colspan="1" align="center" valign="middle">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsmeole&theme=github_dark"
-        alt="itsmeole's Summary Stats"
-        width="100%"
-      />
-    </td>
-  </tr>
+<!-- 1. Grafik Utama (Full Width) -->
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsmeole&theme=github_dark"
+    alt="itsmeole's Profile Details"
+    width="100%"
+  />
+</p>
 
-  <!-- Row 2: Top Languages Donut Charts + Visual GIF -->
-  <tr>
-    <td align="center" valign="middle" width="28%">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsmeole&theme=github_dark"
-        alt="Top Languages by Repo"
-        width="100%"
-      />
-    </td>
-    <td align="center" valign="middle" width="28%">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsmeole&theme=github_dark"
-        alt="Top Languages by Commit"
-        width="100%"
-      />
-    </td>
-    <td align="center" valign="middle" width="44%">
-      <img
-        src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"
-        alt="Visual Banner"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
+<!-- 2. Stats & GIF Bersebelahan -->
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsmeole&theme=github_dark"
+    alt="itsmeole's Summary Stats"
+    width="54%"
+  />
+  <img
+    src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"
+    alt="Visual Coding GIF"
+    width="42%"
+  />
+</p>
+
+<!-- 3. Dua Grafik Languages di Paling Bawah -->
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsmeole&theme=github_dark"
+    alt="Top Languages by Repo"
+    width="49%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsmeole&theme=github_dark"
+    alt="Top Languages by Commit"
+    width="49%"
+  />
+</p>
