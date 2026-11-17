@@ -52,12 +52,12 @@
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsmeole&theme=github_dark"
     alt="itsmeole's Summary Stats"
-    width="55%"
+    width="54%"
   />
   <img
     src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"
     alt="Visual Coding GIF"
-    width="43%"
+    width="42%"
     align="right"
   />
 </p>
@@ -67,12 +67,12 @@
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsmeole&theme=github_dark"
     alt="Top Languages by Repo"
-    width="49%"
+    width="48%"
   />
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsmeole&theme=github_dark"
     alt="Top Languages by Commit"
-    width="49%"
+    width="48%"
     align="right"
   />
 </p>
