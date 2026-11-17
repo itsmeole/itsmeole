@@ -38,8 +38,8 @@
 
 <br/>
 
-<!-- 1. Grafik Utama (Full Width) -->
-<p align="center">
+<!-- 1. Grafik Utama (Rata Kiri-Kanan 100%) -->
+<p>
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsmeole&theme=github_dark"
     alt="itsmeole's Profile Details"
@@ -47,22 +47,23 @@
   />
 </p>
 
-<!-- 2. Stats & GIF Bersebelahan -->
-<p align="center">
+<!-- 2. Stats (Rata Kiri) & GIF (Rata Kanan) -->
+<p>
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsmeole&theme=github_dark"
     alt="itsmeole's Summary Stats"
-    width="54%"
+    width="55%"
   />
   <img
     src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"
     alt="Visual Coding GIF"
-    width="42%"
+    width="43%"
+    align="right"
   />
 </p>
 
-<!-- 3. Dua Grafik Languages di Paling Bawah -->
-<p align="center">
+<!-- 3. Dua Grafik Languages (Rata Kiri & Rata Kanan) -->
+<p>
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsmeole&theme=github_dark"
     alt="Top Languages by Repo"
@@ -72,5 +73,6 @@
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsmeole&theme=github_dark"
     alt="Top Languages by Commit"
     width="49%"
+    align="right"
   />
 </p>
